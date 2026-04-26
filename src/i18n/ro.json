@@ -1,0 +1,106 @@
+{
+  "app": {
+    "name": "acasa"
+  },
+  "auth": {
+    "signIn": "Intră în cont",
+    "signUp": "Creează cont",
+    "email": "Email",
+    "password": "Parolă",
+    "displayName": "Nume",
+    "switchToSignUp": "Nu ai cont? Creează unul",
+    "switchToSignIn": "Ai deja cont? Intră",
+    "submitSignIn": "Intră",
+    "submitSignUp": "Creează cont",
+    "errors": {
+      "invalidEmail": "Email invalid",
+      "passwordTooShort": "Parola trebuie să aibă minim 8 caractere",
+      "nameRequired": "Numele e obligatoriu",
+      "generic": "Ceva n-a mers. Încearcă din nou."
+    }
+  },
+  "spaces": {
+    "onboardingTitle": "Bine ai venit!",
+    "onboardingSubtitle": "Creează un spațiu sau intră într-unul cu un cod.",
+    "createTab": "Creează spațiu",
+    "joinTab": "Intră cu cod",
+    "spaceName": "Numele spațiului",
+    "spaceNamePlaceholder": "Familia Popescu",
+    "createButton": "Creează",
+    "code": "Cod",
+    "codePlaceholder": "ABC123",
+    "joinButton": "Intră în spațiu",
+    "switcher": "Schimbă spațiu",
+    "noSpaces": "Nu faci parte din niciun spațiu încă."
+  },
+  "feed": {
+    "title": "Feed",
+    "empty": "Niciun anunț încă. Fii primul!",
+    "newPost": "Postare nouă",
+    "postType": {
+      "announcement": "Anunț",
+      "event": "Eveniment",
+      "poll": "Sondaj"
+    },
+    "event": {
+      "name": "Nume eveniment",
+      "namePlaceholder": "Sala, Cinema, Doctor…",
+      "description": "Descriere (opțional)",
+      "interval": "Interval",
+      "from": "De la",
+      "to": "Până la",
+      "participants": "Participanți",
+      "selectAll": "Toți",
+      "addParticipant": "Adaugă participant",
+      "endBeforeStart": "Sfârșitul nu poate fi înaintea începutului"
+    },
+    "postTitle": "Titlu",
+    "postBody": "Detalii (opțional)",
+    "publish": "Publică",
+    "pollOptionPlaceholder": "Opțiunea %{n}",
+    "pollAddOption": "+ Adaugă opțiune",
+    "pollNeedTwoOptions": "Sondajul cere minim 2 opțiuni",
+    "votes": {
+      "zero": "Niciun vot",
+      "one": "1 vot",
+      "more": "%{count} voturi"
+    },
+    "reactionPicker": "Reacționează"
+  },
+  "closet": {
+    "title": "Hainele mele",
+    "empty": "Niciun item încă. Adaugă primul cu butonul +",
+    "searchPlaceholder": "Caută după nume, culoare, categorie…",
+    "all": "Toate",
+    "addTitle": "Adaugă item",
+    "editTitle": "Editează item",
+    "name": "Nume",
+    "category": "Categorie",
+    "categoryPlaceholder": "tricou, blugi, pantofi…",
+    "size": "Mărime",
+    "sizePlaceholder": "M, 42, XL…",
+    "color": "Culoare",
+    "colorPlaceholder": "negru, albastru…",
+    "season": "Sezon",
+    "pairCount": "Număr (perechi)",
+    "photoFromCamera": "Fă o poză",
+    "photoFromLibrary": "Alege din galerie",
+    "removePhoto": "Șterge poza",
+    "delete": "Șterge item",
+    "save": "Salvează",
+    "seasons": {
+      "all": "Toate",
+      "spring": "Primăvară",
+      "summer": "Vară",
+      "autumn": "Toamnă",
+      "winter": "Iarnă"
+    }
+  },
+  "common": {
+    "cancel": "Anulează",
+    "save": "Salvează",
+    "loading": "Se încarcă…",
+    "retry": "Reîncearcă",
+    "signOut": "Deconectare"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "app": { "name": "acasa" },
+  "auth": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "displayName": "Name",
+    "switchToSignUp": "No account? Create one",
+    "switchToSignIn": "Already have an account? Sign in",
+    "submitSignIn": "Sign in",
+    "submitSignUp": "Create account",
+    "errors": {
+      "invalidEmail": "Invalid email",
+      "passwordTooShort": "Password must be at least 8 characters",
+      "nameRequired": "Name is required",
+      "generic": "Something went wrong. Try again."
+    }
+  },
+  "spaces": {
+    "onboardingTitle": "Welcome!",
+    "onboardingSubtitle": "Create a space or join one with a code.",
+    "createTab": "Create space",
+    "joinTab": "Join with code",
+    "spaceName": "Space name",
+    "spaceNamePlaceholder": "Smith Family",
+    "createButton": "Create",
+    "code": "Code",
+    "codePlaceholder": "ABC123",
+    "joinButton": "Join space",
+    "switcher": "Switch space",
+    "noSpaces": "You're not in any space yet."
+  },
+  "feed": {
+    "title": "Feed",
+    "empty": "No announcements yet. Be the first!",
+    "newPost": "New post",
+    "postType": {
+      "announcement": "Announcement",
+      "event": "Event",
+      "poll": "Poll"
+    },
+    "event": {
+      "name": "Event name",
+      "namePlaceholder": "Gym, Cinema, Doctor…",
+      "description": "Description (optional)",
+      "interval": "Interval",
+      "from": "From",
+      "to": "To",
+      "participants": "Participants",
+      "selectAll": "All",
+      "addParticipant": "Add participant",
+      "endBeforeStart": "End cannot be before start"
+    },
+    "postTitle": "Title",
+    "postBody": "Details (optional)",
+    "publish": "Publish",
+    "pollOptionPlaceholder": "Option %{n}",
+    "pollAddOption": "+ Add option",
+    "pollNeedTwoOptions": "A poll needs at least 2 options",
+    "votes": {
+      "zero": "No votes",
+      "one": "1 vote",
+      "more": "%{count} votes"
+    },
+    "reactionPicker": "React"
+  },
+  "closet": {
+    "title": "My closet",
+    "empty": "No items yet. Add the first with +",
+    "searchPlaceholder": "Search name, color, category…",
+    "all": "All",
+    "addTitle": "Add item",
+    "editTitle": "Edit item",
+    "name": "Name",
+    "category": "Category",
+    "categoryPlaceholder": "shirt, jeans, shoes…",
+    "size": "Size",
+    "sizePlaceholder": "M, 42, XL…",
+    "color": "Color",
+    "colorPlaceholder": "black, blue…",
+    "season": "Season",
+    "pairCount": "Count (pairs)",
+    "photoFromCamera": "Take photo",
+    "photoFromLibrary": "Pick from library",
+    "removePhoto": "Remove photo",
+    "delete": "Delete item",
+    "save": "Save",
+    "seasons": {
+      "all": "All",
+      "spring": "Spring",
+      "summer": "Summer",
+      "autumn": "Autumn",
+      "winter": "Winter"
+    }
+  },
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading…",
+    "retry": "Retry",
+    "signOut": "Sign out"
+  }
+}
